@@ -1,0 +1,36 @@
+var sep14_data = [
+    {"attendance": 80,  "name": "Bar E",       "img_path": "pics/bare.png"},
+    {"attendance": 80,  "name": "Iris G",      "img_path": "pics/irisg.png"},
+    {"attendance": 60,  "name": "Kian S",      "img_path": "pics/kians.png"},
+    {"attendance": 60,  "name": "Naomi H",     "img_path": "pics/naomih.png"},
+    {"attendance": 60,  "name": "Tamar E",     "img_path": "pics/tamare.png"},
+    {"attendance": 40,  "name": "Violeta L",   "img_path": "pics/violetal.png"},
+    {"attendance": 40,  "name": "Stav S",      "img_path": "pics/stavs.png"},
+    {"attendance": 40,  "name": "Ilil K",      "img_path": "pics/ililk.png"},
+    {"attendance": 40,  "name": "Tamar G",     "img_path": "pics/tamarg.png"},
+    {"attendance": 20,  "name": "Vanessa I",   "img_path": "pics/vanessai.png"},
+    {"attendance": 20,  "name": "Elizabeth Y", "img_path": "pics/elizabethy.png"},
+    {"attendance": 20,  "name": "Michael B",   "img_path": "pics/michaelb.png"},
+    {"attendance": 20,  "name": "Hagar S",     "img_path": "pics/hagars.png"},
+    {"attendance": 20,  "name": "Naama F",     "img_path": "pics/naamaf.png"}
+]
+
+
+var may15_data = [
+    {"attendance": 100, "name": "Ilil F",      "img_path": "pics/ililf.png"},
+    {"attendance": 100, "name": "Karin A",     "img_path": "pics/karina.png"},
+    {"attendance": 100, "name": "Violeta L" ,  "img_path": "pics/violetal.png"},
+    {"attendance": 83,  "name": "Stav S",      "img_path": "pics/stavs.png"},
+    {"attendance": 66,  "name": "Asya R",      "img_path": "pics/asyar.png"},
+    {"attendance": 66,  "name": "Bar E",       "img_path": "pics/bare.png"},
+    {"attendance": 66,  "name": "Ilil K",      "img_path": "pics/ililk.png"},
+    {"attendance": 66,  "name": "Maytal S",    "img_path": "pics/maytals.png"},
+    {"attendance": 66,  "name": "Shachar B",   "img_path": "pics/shacharb.png"},
+    {"attendance": 50,  "name": "Evelyn B",    "img_path": "pics/evelynb.png"},
+    {"attendance": 33,  "name": "Aya N",       "img_path": "pics/ayan.png"},
+    {"attendance": 33,  "name": "Inbal R",     "img_path": "pics/inbalr.png"},
+    {"attendance": 33,  "name": "Tamar G",     "img_path": "pics/tamarg.png"},
+    {"attendance": 33,  "name": "Tamar E",     "img_path": "pics/tamare.png"},
+    {"attendance": 16,  "name": "Hagar S",     "img_path": "pics/hagars.png"}
+]
+

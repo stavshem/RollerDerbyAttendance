@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+   <head>
+      <title>Roller Derby Attendance</title>
+      <script src="http://d3js.org/d3.v3.min.js"></script>
+      <script type="text/javascript" src="tabber.js"></script>
+      <script type="text/javascript" src="d3_attendance_generator.js"></script>
+      <script type="text/javascript" src="monthly_data.json"></script>
+      <link href="attendance.css" rel="stylesheet" type="text/css">
+      <link href="tabber.css" rel="stylesheet" type="text/css">
+   </head>
+   <body>
+      <div class="logo">
+        <h1>Roller Derby Attendance</h1>
+         <img src="pics/logo.png" alt="logo"/>
+      </div>
+      <br>
+      <div class="header">
+         <div class="tabber">
+            <div class="tabbertab" id="sep14">
+               <h2>September 2014</h2>
+               <script type="text/javascript">
+                  generate_attendance_chart("#sep14", sep14_data);
+               </script>
+            </div>
+            <div class="tabbertab tabbertabdefault" id="may15">
+               <h2>May 2015</h2>
+               <script type="text/javascript">
+                  generate_attendance_chart("#may15", may15_data);
+               </script>
+            </div>
+         </div>
+      </div>
+   </body>
+</html>
+
